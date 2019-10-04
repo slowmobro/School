@@ -1,0 +1,3 @@
+Your new salary is: $32280
+Your new monthly salary is: $2690
+Your retroactive pay due is: $1140

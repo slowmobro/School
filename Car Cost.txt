@@ -1,0 +1,12 @@
+Car: 2019 Ford Focus
+Principle: *********************17000.00
+Interest Rate: *****************3.50%
+Loan Term: *********************60.00 months
+
+Monthly Loan Payment: **********$309.26
+Yearly Fuel Cost: **************$275.00
+Annual Maintenance Cost: *******$400.00
+Annual Oil Change Cost: ********$200.00
+Annual Parking Pass: ***********$306.00
+Total Annual Cost: *************$4892.12
+Total Monthly Cost: ************$407.68
