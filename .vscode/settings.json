@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "iosfwd": "cpp",
-        "cctype": "cpp"
-    }
+        "cctype": "cpp",
+        "iomanip": "cpp"
+    },
+    "terminal.explorerKind": "external"
 }

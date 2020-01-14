@@ -1,24 +1,55 @@
-Acetaldehyde	20.8
-Acetone		50.5
-Acetylene	-84
-Ammonia		-35.5
-Aniline		184.4
-Benzene 	80.4
-Chloroform	62.2
-Ethane		-88
-Ether		35
-Furfurol	161.7
-Glycerin	290
-Glycerine	290
-Naphthalene	218
-Nitrobenzene	210.9
-Petrol		95
-Petroleum	210
-Phenol		182
-Propane		-43
-Propylene	-47.7
-Tar		300
-Toluene		110.6
-Turpentine	160
-Water		100
-Xylene		142.7
+Acetone		25	0.787
+Ammonia		25	0.826
+Aniline		25	1.022
+Benzene		25	0.876
+Benzil		25	1.084
+Bromine		25	3.12
+Carene		25	0.860
+Chloride	25	1.56
+Chlorine	60	1.42
+Chloroform	25	1.469
+Cresol		25	1.027
+Creosote	15	1.070
+Cumene		25	0.862
+Decane		25	0.728
+Dodecane	25	0.757
+Ethane		-89	0.572
+Ether		25	0.716
+Ethylamine	16	0.683
+Formaldehyde	45	0.815
+Furan		25	1.421
+Furforal	25	1.159
+Glycerine	25	1.263
+Glycol		25	1.11
+Heptane		25	0.681
+Hexane		25	0.657
+Hexanol		25	0.813
+Hexene		25	0.673
+Hydrazine	25	0.797
+Kerosene	60	0.820
+Mercury		25	13.633
+Methane		-164	0.466
+Wood		25	0.701
+Napthalene	25	0.963
+Nonanol		25	0.823
+Octane		25	0.701
+Oxygen		-183	1.14
+Pentane		25	0.755
+Phenol		25	1.075
+Phosgene	0	1.381
+Phytadiene	25	0.826
+Pinene		25	0.858
+Propane		-40	0.585
+Propane		25	0.495
+Propylene	25	0.516
+Pyridine	25	0.968
+Parole		25	0.969
+Resorcinol	25	1.272
+Sabiname	25	0.814
+Silane		25	0.719
+Sorbaldehyde	25	0.898
+Styrene		25	0.906
+Terpinene	25	0.850
+Toluene		25	0.865
+Turpentine	25	0.871
+Water		4	1.000

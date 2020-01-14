@@ -1,0 +1,40 @@
+The Cat in the Hat
+Dr. Seuss
+72
+1985
+430
+Twilight
+Stephenie Meyer
+544
+2005
+720
+Jurassic Park
+Michael Crichton
+416
+1990
+710
+Number the Stars
+Lois Lowry
+144
+1989
+670
+Aliens for Breakfast
+Jonathan Etra
+64
+1988
+420
+The Secret Hour
+Scott Westerfeld
+304
+2004
+740
+The Chocolate Files
+Mary Elise Monsell
+64
+2000
+620
+The City of Ember
+Jeanne DuPrau
+288
+2003
+680

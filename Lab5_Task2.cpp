@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int num1, num2; //declare variables for numbers to calculate and operator
+    double num1, num2; //declare variables for numbers to calculate and operator
     char operatorSymbol;
 
 
