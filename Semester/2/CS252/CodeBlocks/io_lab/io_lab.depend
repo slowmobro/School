@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579738007 source:c:\users\slowm\code\git\school\cs252\codeblocks\io_lab\io_lab.cpp
+	<iostream>
+	<string>
+

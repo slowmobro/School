@@ -1,0 +1,11 @@
+10
+0 	rabbit 		brown 		10 	.3 	.1 	.1 	0
+1 	rabbit 		brown  		10 	.4 	.1 	.1 	0
+2 	rabbit 		grey   		10	.2 	.1 	.1 	0
+3 	deer   		brown  		25	2 	.3 	.7 	0
+4 	deer   		brown  		25	1.5 	3	 .9	0
+5 	fox 	 	orange		16	1.1	.2	.4	0
+6 	fox 	 	orange 		16	.9	.3	.3	0
+7 	rat		black		9	.2	.1	.05	1	
+8 	rat		black		6	.1	.08	.05	1
+9 	pigeon 		grey		1	.03	.01	.02	0   

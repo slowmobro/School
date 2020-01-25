@@ -1,0 +1,8 @@
+7
+0 Michael Corleone	100	1.1 	1.3	5.0
+1 John	  Doe		50	1.4 	1.1	4.8
+2 Chris   Richards	56	1.3 	1.2	5.9	
+3 Mary    Collins	54	1.1 	1.2	4.3
+4 Gus	  Evans		64	1.3 	1.3	6.4
+5 George  Weiss		39	1.2 	1.1	5.6
+6 Eustace Smith		64	1.1 	1.0	5.9

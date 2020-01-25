@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579734384 source:c:\users\slowm\code\git\school\cs252\codeblocks\labthree\lab3.cpp
+	<iostream>
+	<fstream>
+
+1579734197 source:c:\users\slowm\code\git\school\cs252\codeblocks\labthree\lab3-2.cpp
+	<iostream>
+	<fstream>
+

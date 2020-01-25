@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579888409 source:c:\users\slowm\code\git\school\cs252\codeblocks\assignment0\assignment0\assignment0.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<time.h>
+
